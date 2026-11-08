@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi! 🦭
 
-<!--
-**Avarg116/Avarg116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Alejandro](https://avarg116.github.io/), a software developer based in Los Angeles with a B.S. in Computer Science from the University of California, Riverside.
 
-Here are some ideas to get you started:
+I build backend services, data pipelines, and AI apps, which I test and deploy to the cloud.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with Python, FastAPI, PostgreSQL, Docker, and AWS.
+
+I have a few pinned projects, but my favorite is the [NYC Congestion Pricing Data Pipeline](https://github.com/Avarg116/NYC-Congestion-Pricing-Data-Pipeline).
+
+## Tools & Tech
+
+- Python, SQL, JavaScript
+- FastAPI, React, Node.js
+- PostgreSQL (pgvector), Airflow
+- Docker, AWS
+- RAG, AI Agents
+
+### A Bit About Me
+
+- I'm a native Spanish speaker
+- I'm an identical twin
+- I enjoy drawing
+- I have a saltwater aquarium
