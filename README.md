@@ -4,7 +4,7 @@ I'm [Alejandro](https://avarg116.github.io/), a software developer based in Los 
 
 I build backend services, data pipelines, and AI apps, which I test and deploy to the cloud.
 
-I work with Python, FastAPI, PostgreSQL, Docker, and AWS.
+I mostly work with Python, FastAPI, PostgreSQL, Docker, and AWS.
 
 I have a few pinned projects, but my favorite is the [NYC Congestion Pricing Data Pipeline](https://github.com/Avarg116/NYC-Congestion-Pricing-Data-Pipeline).
 
